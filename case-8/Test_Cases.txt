@@ -1,0 +1,8 @@
+TEST CASES
+
+1. aaabbc → a3b2c1.
+2. abcd → a1b1c1d1.
+3. aaaaa → a5.
+4. aAaa → a1A1a2 (case-sensitive).
+5. Empty input → (empty).
+6. '  !!' (two spaces then two exclamation marks) → [space]2!2.

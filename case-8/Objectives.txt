@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Accept a text string.
+2. Identify consecutive runs of the same character.
+3. Count each run.
+4. Build and display the compressed string.
+5. Practice strings, indexing, loops, and concatenation.

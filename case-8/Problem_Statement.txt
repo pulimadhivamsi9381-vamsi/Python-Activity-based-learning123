@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Create a simple text-compression program that replaces consecutive repeated characters with the character followed by its repetition count. For example, the text 'aaabbc' becomes 'a3b2c1'.

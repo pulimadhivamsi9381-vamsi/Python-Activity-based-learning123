@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Input text → Empty? YES: show empty result; NO: initialize current character and count → Scan next character → Same? YES: increase count; NO: append run and reset → End reached? NO: continue → Append last run → Display compressed text → STOP

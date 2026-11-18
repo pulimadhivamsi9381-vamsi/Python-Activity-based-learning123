@@ -1,0 +1,7 @@
+ASSUMPTIONS
+
+1. The program performs run-length encoding for consecutive characters only.
+2. Spaces and punctuation are treated as normal characters.
+3. Uppercase and lowercase characters are different.
+4. The count is included even when a character occurs once.
+5. This simple encoding is not guaranteed to make every input shorter.

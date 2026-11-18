@@ -1,0 +1,10 @@
+ALGORITHM
+
+1. Read the input text.
+2. If it is empty, display an empty result.
+3. Set current character to the first character and count to 1.
+4. Visit each remaining character.
+5. If it matches the current character, increase count.
+6. Otherwise append current character and count to compressed text; reset current character and count.
+7. Append the final character and count.
+8. Display original and compressed text.

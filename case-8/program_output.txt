@@ -1,0 +1,2 @@
+Enter text to compress: Original text : aaabbc
+Compressed text: a3b2c1

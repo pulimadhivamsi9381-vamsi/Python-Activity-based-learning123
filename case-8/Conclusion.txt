@@ -1,0 +1,3 @@
+CONCLUSION
+
+The program groups consecutive identical characters and records each run's length. It demonstrates string indexing, loops, conditions, and string concatenation.

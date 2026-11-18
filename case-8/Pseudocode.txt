@@ -1,0 +1,19 @@
+PSEUDOCODE
+
+BEGIN
+ INPUT text
+ compressed = ""
+ IF length(text) > 0 THEN
+   current = first character; count = 1
+   FOR each remaining character
+     IF character = current
+       count = count + 1
+     ELSE
+       compressed = compressed + current + STRING(count)
+       current = character; count = 1
+     END IF
+   END FOR
+   compressed = compressed + current + STRING(count)
+ END IF
+ DISPLAY compressed
+END

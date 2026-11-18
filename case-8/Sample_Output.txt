@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example input: aaabbc
+Expected output: Original text: aaabbc; Compressed text: a3b2c1.
