@@ -1,0 +1,10 @@
+OBJECTIVES
+
+1. Accept electricity units consumed from the user.
+2. Validate that the entered units are not negative.
+3. Calculate energy charges using progressive slabs.
+4. Add the fixed charge.
+5. Apply the surcharge or rebate according to the assumptions.
+6. Display the bill details and final amount.
+7. Practice variables, input/output, type conversion, arithmetic operators,
+   relational operators, and if-elif-else decision statements.

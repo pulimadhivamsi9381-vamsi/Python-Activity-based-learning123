@@ -1,0 +1,10 @@
+CONCLUSION
+
+The Progressive Electricity Billing program calculates an electricity bill
+using multiple consumption slabs. It also adds a fixed charge and applies a
+surcharge or rebate according to the assumptions. The case study demonstrates
+how conditional statements and arithmetic operations can solve a practical
+billing problem.
+
+The tariff values used are academic assumptions because the supplied
+case-study description does not specify actual rates.

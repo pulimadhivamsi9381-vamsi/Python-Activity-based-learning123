@@ -1,0 +1,32 @@
+SAMPLE OUTPUT 1
+
+PROGRESSIVE ELECTRICITY BILLING
+--------------------------------
+Enter electricity units consumed: 150
+
+----------- BILL SUMMARY -----------
+Units consumed       : 150.0
+Energy charge        : Rs. 275.0
+Fixed charge         : Rs. 50.0
+Surcharge             : Rs. 0.0
+Rebate                : Rs. 0.0
+------------------------------------
+Final bill amount     : Rs. 325.0
+------------------------------------
+
+
+SAMPLE OUTPUT 2
+
+PROGRESSIVE ELECTRICITY BILLING
+--------------------------------
+Enter electricity units consumed: 450
+
+----------- BILL SUMMARY -----------
+Units consumed       : 450.0
+Energy charge        : Rs. 1500.0
+Fixed charge         : Rs. 50.0
+Surcharge             : Rs. 75.0
+Rebate                : Rs. 0.0
+------------------------------------
+Final bill amount     : Rs. 1625.0
+------------------------------------

@@ -1,0 +1,17 @@
+ASSUMPTIONS
+
+The assignment topic does not provide exact tariff values. The following
+values are assumed only for this case study:
+
+1. First 100 units: Rs. 1.50 per unit.
+2. Units 101 to 200: Rs. 2.50 per unit.
+3. Units 201 to 400: Rs. 4.00 per unit.
+4. Units above 400: Rs. 6.00 per unit.
+5. Fixed charge: Rs. 50.00 per bill.
+6. If the energy charge is greater than Rs. 1,000, add a 5% surcharge
+   on the energy charge.
+7. If consumption is 100 units or less, give a 2% rebate on the energy charge.
+8. The surcharge and rebate are mutually exclusive because their conditions
+   cannot both be true.
+9. Negative unit values are invalid.
+10. Currency is displayed in Indian rupees (Rs.).

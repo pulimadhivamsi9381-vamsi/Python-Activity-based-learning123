@@ -1,0 +1,17 @@
+ALGORITHM
+
+1. Start.
+2. Read the number of units consumed.
+3. If units are negative, display an invalid-input message and stop.
+4. Set energy_charge to zero.
+5. If units are at most 100, multiply all units by Rs. 1.50.
+6. Otherwise, charge Rs. 1.50 for the first 100 units.
+7. If units are above 100, charge up to the next 100 units at Rs. 2.50.
+8. If units are above 200, charge up to the next 200 units at Rs. 4.00.
+9. If units are above 400, charge the remaining units at Rs. 6.00.
+10. Add the fixed charge of Rs. 50.
+11. If energy charge is greater than Rs. 1,000, calculate a 5% surcharge.
+12. Else, if units are at most 100, calculate a 2% rebate.
+13. Calculate final bill = energy charge + fixed charge + surcharge - rebate.
+14. Display the bill details.
+15. Stop.

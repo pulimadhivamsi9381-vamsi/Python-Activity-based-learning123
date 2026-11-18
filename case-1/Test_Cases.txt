@@ -1,0 +1,40 @@
+TEST CASES
+
+Test 1
+Input: 50 units
+Energy charge: 50 x 1.50 = Rs. 75.00
+Fixed charge: Rs. 50.00
+Rebate: 2% of 75 = Rs. 1.50
+Expected final bill: Rs. 123.50
+
+Test 2
+Input: 100 units
+Energy charge: 100 x 1.50 = Rs. 150.00
+Fixed charge: Rs. 50.00
+Rebate: 2% of 150 = Rs. 3.00
+Expected final bill: Rs. 197.00
+
+Test 3
+Input: 150 units
+Energy charge: (100 x 1.50) + (50 x 2.50) = Rs. 275.00
+Fixed charge: Rs. 50.00
+No surcharge or rebate
+Expected final bill: Rs. 325.00
+
+Test 4
+Input: 250 units
+Energy charge: 150 + 250 + (50 x 4.00) = Rs. 600.00
+Fixed charge: Rs. 50.00
+No surcharge or rebate
+Expected final bill: Rs. 650.00
+
+Test 5
+Input: 450 units
+Energy charge: 150 + 250 + 800 + (50 x 6.00) = Rs. 1,500.00
+Fixed charge: Rs. 50.00
+Surcharge: 5% of 1500 = Rs. 75.00
+Expected final bill: Rs. 1,625.00
+
+Test 6
+Input: -10 units
+Expected result: Invalid input message; no bill is calculated.

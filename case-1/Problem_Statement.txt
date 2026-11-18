@@ -1,0 +1,7 @@
+PROBLEM STATEMENT
+
+Develop a Python program to calculate a customer's electricity bill using
+progressive consumption slabs. The program should accept the number of units
+consumed, calculate the energy charge for each applicable slab, add a fixed
+charge, and apply a surcharge or rebate when the stated conditions are met.
+Finally, it should display a clear bill summary.

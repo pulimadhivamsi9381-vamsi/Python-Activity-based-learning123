@@ -1,0 +1,35 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+             +-------+
+             | START |
+             +---+---+
+                 |
+          Input units
+                 |
+          Is units < 0?
+            /       \
+          Yes        No
+          |           |
+   Show invalid   Calculate energy
+      input       charge by slabs
+          |           |
+         STOP     Add fixed charge
+                      |
+             Energy charge > 1000?
+                 /          \
+               Yes           No
+                |             |
+          Add 5% surcharge  Units <= 100?
+                              /       \
+                            Yes        No
+                             |          |
+                         Give 2%      No rebate
+                          rebate         |
+                             \         /
+                         Calculate final bill
+                                 |
+                         Display bill summary
+                                 |
+                              +------+
+                              | STOP |
+                              +------+

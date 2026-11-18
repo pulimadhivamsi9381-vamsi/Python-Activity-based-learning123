@@ -1,0 +1,41 @@
+PSEUDOCODE
+
+BEGIN
+    INPUT units
+
+    IF units < 0 THEN
+        DISPLAY "Invalid units"
+    ELSE
+        energy_charge = 0
+
+        IF units <= 100 THEN
+            energy_charge = units * 1.50
+        ELSE
+            energy_charge = 100 * 1.50
+            IF units <= 200 THEN
+                energy_charge = energy_charge + (units - 100) * 2.50
+            ELSE
+                energy_charge = energy_charge + 100 * 2.50
+                IF units <= 400 THEN
+                    energy_charge = energy_charge + (units - 200) * 4.00
+                ELSE
+                    energy_charge = energy_charge + 200 * 4.00
+                    energy_charge = energy_charge + (units - 400) * 6.00
+                END IF
+            END IF
+        END IF
+
+        fixed_charge = 50
+        surcharge = 0
+        rebate = 0
+
+        IF energy_charge > 1000 THEN
+            surcharge = energy_charge * 0.05
+        ELSE IF units <= 100 THEN
+            rebate = energy_charge * 0.02
+        END IF
+
+        final_bill = energy_charge + fixed_charge + surcharge - rebate
+        DISPLAY all bill details
+    END IF
+END
