@@ -1,0 +1,10 @@
+ANSWER EVALUATION
+Answer the following 5 questions.
+Question 1: Correct answer.
+Question 2: Correct answer.
+Question 3: Correct answer.
+Question 4: Incorrect answer.
+Question 5: Correct answer.
+
+Final score: 8 / 10
+Percentage: 80.0 %

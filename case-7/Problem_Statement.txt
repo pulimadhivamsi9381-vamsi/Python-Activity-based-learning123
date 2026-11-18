@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Develop a simple objective-answer evaluator that compares a student's text answers with an answer key. It should ignore leading/trailing spaces and differences in letter case, then calculate the score.

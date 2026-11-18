@@ -1,0 +1,17 @@
+PSEUDOCODE
+
+BEGIN
+ key = list of five correct answers
+ score = 0
+ FOR each question from 1 to 5
+   INPUT student_answer
+   normalized = LOWER(STRIP(student_answer))
+   IF normalized = key[question]
+     score = score + 2
+     DISPLAY correct
+   ELSE DISPLAY incorrect
+   END IF
+ END FOR
+ percentage = score / 10 * 100
+ DISPLAY score and percentage
+END

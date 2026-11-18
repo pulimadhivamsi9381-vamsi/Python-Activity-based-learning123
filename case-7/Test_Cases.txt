@@ -1,0 +1,8 @@
+TEST CASES
+
+Answer key: python, cpu, input, list, loop.
+1. All five correct → 10/10, 100%.
+2. Three correct → 6/10, 60%.
+3. Input ' PYTHON ' for Q1 → accepted as correct after normalization.
+4. All blank → 0/10, 0%.
+5. All incorrect → 0/10, 0%.

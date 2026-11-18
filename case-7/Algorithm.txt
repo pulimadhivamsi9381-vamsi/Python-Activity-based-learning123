@@ -1,0 +1,10 @@
+ALGORITHM
+
+1. Store the five correct answers in a list.
+2. Read five student answers.
+3. Normalize each student answer with strip() and lower().
+4. Compare it with the matching answer key.
+5. Award 2 marks for a match, otherwise 0.
+6. Calculate total out of 10 and percentage.
+7. Display question-wise result and final score.
+8. Stop.

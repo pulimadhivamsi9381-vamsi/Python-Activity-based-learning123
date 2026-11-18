@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example answers: PYTHON, cpu, input, tuple, loop
+Expected: Q1, Q2, Q3, and Q5 correct; Q4 incorrect; score 8/10; percentage 80%.

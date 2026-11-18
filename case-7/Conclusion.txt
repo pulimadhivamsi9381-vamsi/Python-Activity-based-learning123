@@ -1,0 +1,3 @@
+CONCLUSION
+
+The evaluator compares normalized strings so that case and outer spaces do not affect matching. It demonstrates string methods, lists, indexing, loops, and score calculation.

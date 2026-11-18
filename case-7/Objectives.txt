@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Read a fixed number of student answers.
+2. Normalize answers using strip() and lower().
+3. Compare each answer with the corresponding key.
+4. Calculate marks and percentage.
+5. Practice strings, lists, loops, and conditional statements.

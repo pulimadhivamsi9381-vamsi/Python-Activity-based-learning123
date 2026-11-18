@@ -1,0 +1,7 @@
+ASSUMPTIONS
+
+1. There are five questions.
+2. Each correct answer carries 2 marks.
+3. Incorrect answers receive zero marks; there is no negative marking.
+4. Blank answers are treated as incorrect.
+5. Answers are compared as complete text strings after removing outer spaces and converting to lowercase.
