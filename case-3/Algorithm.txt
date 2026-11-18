@@ -1,0 +1,9 @@
+ALGORITHM
+
+1. Read conducted and attended class counts.
+2. Validate that both are non-negative and attended is not greater than conducted.
+3. Calculate current attendance percentage (attended/conducted) × 100.
+4. If current attendance is at least 75%, display that no recovery is needed.
+5. Otherwise, start additional_classes at zero and repeat: increase additional_classes until attended + additional_classes is at least 75% of conducted + additional_classes.
+6. Display current percentage and required additional classes.
+7. Stop.

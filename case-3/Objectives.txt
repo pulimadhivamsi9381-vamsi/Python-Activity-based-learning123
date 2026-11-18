@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Accept total and attended class counts.
+2. Validate the input counts.
+3. Calculate current attendance percentage.
+4. Calculate the minimum additional classes needed to reach the target.
+5. Practice arithmetic, comparisons, and while loops.

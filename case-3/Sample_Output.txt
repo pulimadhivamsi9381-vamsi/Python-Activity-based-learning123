@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example input: conducted = 100, attended = 60
+Expected output: Current attendance 60.0%; required attendance 75%; additional consecutive classes to attend: 60; attendance after recovery: 75.0%.

@@ -1,0 +1,5 @@
+ATTENDANCE RECOVERY
+Enter total classes conducted: Enter classes attended: Current attendance: 60.0 %
+Required attendance: 75%
+Additional consecutive classes to attend: 60
+Attendance after recovery: 75.0 %

@@ -1,0 +1,3 @@
+CONCLUSION
+
+The program computes current attendance and uses a while loop to find the minimum number of future classes needed to reach the target attendance.

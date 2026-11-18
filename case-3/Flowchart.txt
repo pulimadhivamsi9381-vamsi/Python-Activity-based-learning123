@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Input conducted and attended → Validate → Calculate percentage → Already ≥75%? YES: no recovery → NO: WHILE future percentage <75%, add one attended class → Display required classes → STOP

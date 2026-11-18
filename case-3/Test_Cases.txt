@@ -1,0 +1,7 @@
+TEST CASES
+
+1. Conducted 100, attended 80 → current 80%, additional 0.
+2. Conducted 100, attended 60 → current 60%, additional 60 (120/160 = 75%).
+3. Conducted 40, attended 30 → current 75%, additional 0.
+4. Conducted 50, attended 0 → additional 150 (150/200 = 75%).
+5. Conducted 0 or attended greater than conducted → invalid input.

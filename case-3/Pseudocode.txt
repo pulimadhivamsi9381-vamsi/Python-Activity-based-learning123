@@ -1,0 +1,14 @@
+PSEUDOCODE
+
+BEGIN
+ INPUT conducted, attended
+ IF counts invalid THEN DISPLAY error
+ ELSE
+   percentage = attended / conducted * 100
+   additional = 0
+   WHILE (attended + additional) / (conducted + additional) * 100 < 75
+     additional = additional + 1
+   END WHILE
+   DISPLAY percentage and additional
+ END IF
+END

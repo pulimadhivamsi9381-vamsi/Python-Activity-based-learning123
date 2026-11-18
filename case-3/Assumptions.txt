@@ -1,0 +1,7 @@
+ASSUMPTIONS
+
+1. Required attendance is 75%.
+2. Attended classes cannot exceed conducted classes.
+3. Future classes are all attended by the student.
+4. Class counts are whole numbers and cannot be negative.
+5. The result is a mathematical estimate; institutional attendance rules may differ.
