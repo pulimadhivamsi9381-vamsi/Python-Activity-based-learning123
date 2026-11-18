@@ -1,0 +1,15 @@
+PSEUDOCODE
+
+BEGIN
+ balance = 5000
+ WHILE true
+   DISPLAY menu
+   INPUT choice
+   IF choice = 1 DISPLAY balance
+   ELSE IF choice = 2 INPUT amount; IF amount > 0 ADD to balance
+   ELSE IF choice = 3 INPUT amount; IF amount > 0 AND amount <= balance SUBTRACT
+   ELSE IF choice = 4 BREAK
+   ELSE DISPLAY invalid choice
+   END IF
+ END WHILE
+END

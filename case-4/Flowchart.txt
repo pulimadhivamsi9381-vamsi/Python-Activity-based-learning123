@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Set opening balance → Display menu → Read choice → Choice 1: show balance; Choice 2: deposit; Choice 3: validate and withdraw; Choice 4: exit; Other: invalid choice → Repeat menu unless exit → STOP

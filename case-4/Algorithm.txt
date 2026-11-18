@@ -1,0 +1,11 @@
+ALGORITHM
+
+1. Set balance to Rs. 5,000.
+2. Display menu: balance, deposit, withdraw, exit.
+3. Read choice.
+4. If choice is 1, display balance.
+5. If choice is 2, read deposit amount; add it if positive.
+6. If choice is 3, read withdrawal amount; withdraw only if positive and not greater than balance.
+7. If choice is 4, display goodbye and stop the loop.
+8. Otherwise display invalid choice.
+9. Repeat until exit.

@@ -1,0 +1,3 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example sequence: choose 1 → Rs. 5000; choose 2 and enter 1000 → deposit successful, balance Rs. 6000; choose 3 and enter 500 → withdrawal successful, balance Rs. 5500; choose 4 → thank-you message and exit.

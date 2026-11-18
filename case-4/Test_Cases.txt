@@ -1,0 +1,8 @@
+TEST CASES
+
+1. Select 1 at start → balance Rs. 5000.
+2. Deposit Rs. 1000 → new balance Rs. 6000.
+3. Withdraw Rs. 500 → new balance Rs. 5500.
+4. Withdraw Rs. 7000 → insufficient balance; balance unchanged.
+5. Deposit Rs. 0 or withdraw a negative amount → rejected.
+6. Select 4 → program exits.

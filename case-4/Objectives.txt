@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Display a transaction menu repeatedly.
+2. Process balance enquiry, deposit, and withdrawal.
+3. Validate transaction amounts and available balance.
+4. Stop when the user selects Exit.
+5. Practice while loops, if/elif, break, and arithmetic operators.

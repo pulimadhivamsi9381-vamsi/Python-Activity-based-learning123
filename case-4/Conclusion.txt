@@ -1,0 +1,3 @@
+CONCLUSION
+
+The ATM simulation demonstrates menu-driven programming, repeated execution using a while loop, conditional transaction processing, and safe balance validation.

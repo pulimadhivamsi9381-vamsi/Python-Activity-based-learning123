@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Develop a simple ATM simulation that allows a user to check balance, deposit money, withdraw money, and exit. The program must validate transaction amounts and prevent withdrawals that exceed the available balance.
