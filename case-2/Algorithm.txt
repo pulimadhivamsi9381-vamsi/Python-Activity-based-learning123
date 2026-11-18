@@ -1,0 +1,10 @@
+ALGORITHM
+
+1. Start and read marks for five subjects.
+2. If any mark is below 0 or above 100, display invalid input and stop.
+3. Count subjects with marks below 35.
+4. If exactly one subject has marks from 30 to 34, add the required grace marks to that subject.
+5. If any subject is still below 35, declare FAIL; otherwise declare PASS.
+6. Calculate adjusted total and percentage.
+7. Display original/adjusted marks, grace marks, total, percentage, and result.
+8. Stop.

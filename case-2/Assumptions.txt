@@ -1,0 +1,8 @@
+ASSUMPTIONS
+
+1. There are exactly five subjects.
+2. Each subject is marked out of 100.
+3. Pass mark is 35 in each subject.
+4. Grace marks are allowed in exactly one failed subject only when its mark is between 30 and 34 inclusive.
+5. Only enough marks to reach 35 are added; the adjusted mark cannot exceed 35 under this rule.
+6. Grace marks are an academic rule assumed for this case study, not an official institution policy.

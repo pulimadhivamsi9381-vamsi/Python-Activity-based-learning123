@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Read and validate five subject marks.
+2. Calculate total and percentage.
+3. Apply the stated grace-mark rule.
+4. Display subject-wise and overall result.
+5. Practice input/output, type conversion, arithmetic, relational operators, and nested if/elif/else statements.

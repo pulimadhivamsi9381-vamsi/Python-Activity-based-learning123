@@ -1,0 +1,18 @@
+PSEUDOCODE
+
+BEGIN
+ INPUT five subject marks
+ IF any mark < 0 OR any mark > 100 THEN
+   DISPLAY invalid input
+ ELSE
+   COUNT marks below 35
+   IF count = 1 AND failed mark >= 30 THEN
+     ADD (35 - failed mark) grace marks
+   END IF
+   IF any adjusted mark < 35 THEN result = FAIL
+   ELSE result = PASS
+   END IF
+   CALCULATE total and percentage
+   DISPLAY marks, grace marks, total, percentage, result
+ END IF
+END

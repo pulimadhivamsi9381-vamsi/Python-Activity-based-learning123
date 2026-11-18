@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example input: 70, 80, 60, 90, 32
+Expected: Original marks [70.0, 80.0, 60.0, 90.0, 32.0]; adjusted marks [70.0, 80.0, 60.0, 90.0, 35]; grace marks 3; total 335; percentage 67.0%; PASS.

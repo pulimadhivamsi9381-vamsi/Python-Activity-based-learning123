@@ -1,0 +1,7 @@
+TEST CASES
+
+1. Input: 70, 80, 60, 90, 75 → PASS, total 375, percentage 75%.
+2. Input: 70, 80, 60, 90, 32 → 3 grace marks, adjusted total 332, PASS.
+3. Input: 70, 80, 60, 90, 20 → no grace, FAIL.
+4. Input: 34, 34, 80, 90, 90 → two failed subjects, no grace, FAIL.
+5. Input includes 105 or -2 → invalid input.

@@ -1,0 +1,8 @@
+EXAMINATION RESULT
+Enter marks for subject 1 (0-100): Enter marks for subject 2 (0-100): Enter marks for subject 3 (0-100): Enter marks for subject 4 (0-100): Enter marks for subject 5 (0-100): 
+Original marks: [70.0, 80.0, 60.0, 90.0, 32.0]
+Adjusted marks: [70.0, 80.0, 60.0, 90.0, 35]
+Grace marks awarded: 3.0
+Total: 335.0 / 500
+Percentage: 67.0 %
+Result: PASS

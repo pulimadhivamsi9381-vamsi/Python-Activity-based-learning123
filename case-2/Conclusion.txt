@@ -1,0 +1,3 @@
+CONCLUSION
+
+The program validates subject marks, applies a clearly defined grace-mark condition, and calculates the student's result. It demonstrates lists, loops, conditions, and arithmetic operations.

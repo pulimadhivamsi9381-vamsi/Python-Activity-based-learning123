@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Input five marks → Validate range → Invalid? YES: show error → STOP; NO: count failed subjects → Exactly one failure in 30–34? YES: add minimum grace marks → Check all subjects pass → Calculate total and percentage → Display result → STOP
