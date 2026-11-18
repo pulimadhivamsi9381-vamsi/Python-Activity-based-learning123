@@ -1,0 +1,8 @@
+TEST CASES
+
+1. Abcdef1! → valid (8 characters and all required types).
+2. abcdef1! → invalid; no uppercase.
+3. ABCDEF1! → invalid; no lowercase.
+4. Abcdefgh! → invalid; no digit.
+5. Abcdef12 → invalid; no special character.
+6. Ab1! → invalid; length below 8.

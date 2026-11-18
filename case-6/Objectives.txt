@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Accept a password string.
+2. Check its length.
+3. Check for uppercase, lowercase, digits, and special characters.
+4. Display each rule's status and the final validity result.
+5. Practice string methods, loops, membership, and Boolean conditions.

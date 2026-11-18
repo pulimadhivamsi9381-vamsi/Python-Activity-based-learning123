@@ -1,0 +1,9 @@
+ALGORITHM
+
+1. Read a password.
+2. Initialize four flags as false.
+3. For each character, check uppercase, lowercase, digit, and special character conditions.
+4. Check whether length is at least 8.
+5. Display the status of each rule.
+6. If all rules are satisfied, display valid; otherwise display invalid.
+7. Stop.

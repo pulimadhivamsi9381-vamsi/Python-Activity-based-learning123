@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example input: Abcdef1!
+Expected: length true; uppercase true; lowercase true; digit true; special character true; result VALID PASSWORD.

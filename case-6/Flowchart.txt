@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Input password → Initialize rule flags → Check every character → Check length → Are all five rules satisfied? YES: valid password; NO: invalid password → STOP

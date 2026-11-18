@@ -1,0 +1,8 @@
+Enter a password to check: 
+PASSWORD POLICY CHECK
+At least 8 characters : True
+Contains uppercase    : True
+Contains lowercase    : True
+Contains a digit      : True
+Contains special char : True
+Result: VALID PASSWORD

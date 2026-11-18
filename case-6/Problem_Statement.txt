@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Write a program that checks whether a password satisfies a basic policy. The password must have a minimum length and include uppercase, lowercase, numeric, and special characters.

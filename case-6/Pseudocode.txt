@@ -1,0 +1,18 @@
+PSEUDOCODE
+
+BEGIN
+ INPUT password
+ upper = false; lower = false; digit = false; special = false
+ FOR each character in password
+   IF character is uppercase set upper = true
+   IF character is lowercase set lower = true
+   IF character is digit set digit = true
+   IF character is not alphanumeric set special = true
+ END FOR
+ length_ok = length(password) >= 8
+ DISPLAY each rule
+ IF length_ok AND upper AND lower AND digit AND special
+   DISPLAY valid
+ ELSE DISPLAY invalid
+ END IF
+END

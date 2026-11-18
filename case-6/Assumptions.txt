@@ -1,0 +1,7 @@
+ASSUMPTIONS
+
+1. Minimum password length is 8 characters.
+2. At least one uppercase letter, one lowercase letter, one digit, and one special character are required.
+3. A special character is any character that is not a letter or digit.
+4. Spaces count as special characters in this basic classroom rule.
+5. The program does not store or transmit the password.
