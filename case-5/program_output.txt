@@ -1,0 +1,13 @@
+REPEATED TRANSACTION DETECTION
+Enter 8 transaction reference numbers.
+Reference 1: ACCEPTED: New transaction reference.
+Reference 2: ACCEPTED: New transaction reference.
+Reference 3: ACCEPTED: New transaction reference.
+Reference 4: DUPLICATE: This reference was already entered.
+Reference 5: ACCEPTED: New transaction reference.
+Reference 6: ACCEPTED: New transaction reference.
+Reference 7: DUPLICATE: This reference was already entered.
+Reference 8: ACCEPTED: New transaction reference.
+
+Unique references: ['T01', 'T02', 'T03', 'T04', 'T05', 'T06']
+Number of unique transactions: 6

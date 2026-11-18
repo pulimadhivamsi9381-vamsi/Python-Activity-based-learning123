@@ -1,0 +1,15 @@
+PSEUDOCODE
+
+BEGIN
+ accepted = empty list
+ FOR count from 1 to 8
+   INPUT reference
+   IF reference IN accepted
+     DISPLAY duplicate
+   ELSE
+     APPEND reference to accepted
+     DISPLAY accepted
+   END IF
+ END FOR
+ DISPLAY accepted and number of unique references
+END

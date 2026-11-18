@@ -1,0 +1,8 @@
+ALGORITHM
+
+1. Create an empty list of accepted references.
+2. Repeat 8 times: read a reference number.
+3. If it is already in the accepted list, report duplicate.
+4. Otherwise append it to the accepted list and report accepted.
+5. Display the number of unique references and the accepted list.
+6. Stop.

@@ -1,0 +1,3 @@
+CONCLUSION
+
+The program uses a list and the membership operator to detect repeated transaction references while preserving the first occurrence.

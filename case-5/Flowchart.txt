@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Create empty accepted list → Read next reference → Is reference already in list? YES: report duplicate; NO: append and report accepted → More references? YES: repeat; NO: display unique references → STOP

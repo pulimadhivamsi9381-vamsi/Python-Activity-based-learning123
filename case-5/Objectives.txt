@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Read a fixed number of transaction references.
+2. Store references in a list.
+3. Check whether each reference has appeared earlier.
+4. Report repeated and unique references.
+5. Practice strings, lists, membership operators, and for loops.

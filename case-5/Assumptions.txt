@@ -1,0 +1,7 @@
+ASSUMPTIONS
+
+1. The user enters exactly 8 transaction reference numbers.
+2. References are compared as text, so leading zeros are preserved.
+3. Comparison is case-sensitive.
+4. The first occurrence is accepted; later occurrences are marked duplicate.
+5. This is a simple classroom simulation, not a banking fraud-detection system.

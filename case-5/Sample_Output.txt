@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example inputs: T01, T02, T03, T01, T04, T05, T02, T06
+Expected: T01 and T02 are reported as duplicates on their second occurrence; unique list is ['T01', 'T02', 'T03', 'T04', 'T05', 'T06']; unique count is 6.

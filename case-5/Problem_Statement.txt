@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Create a program that reads a sequence of transaction reference numbers and identifies duplicate references. A repeated reference should be reported instead of being treated as a new transaction.

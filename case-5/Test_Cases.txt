@@ -1,0 +1,5 @@
+TEST CASES
+
+1. Inputs A101, A102, A103, A101, A104, A105, A102, A106 → A101 and A102 are duplicates; 6 unique references.
+2. Inputs 001, 002, 003, 004, 005, 006, 007, 008 → all 8 accepted.
+3. Inputs X repeated 8 times → first accepted, next 7 reported as duplicates.
