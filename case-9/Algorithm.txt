@@ -1,0 +1,8 @@
+ALGORITHM
+
+1. Create an empty nested list.
+2. For each of 3 students, read marks in 3 subjects.
+3. Validate every mark; if invalid, display an error and stop.
+4. For each student, calculate total and average.
+5. For each subject column, find the highest mark across students.
+6. Display the matrix, totals, averages, and subject-wise highest marks.

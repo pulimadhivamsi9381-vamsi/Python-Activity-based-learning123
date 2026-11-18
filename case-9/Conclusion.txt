@@ -1,0 +1,3 @@
+CONCLUSION
+
+The program uses a nested list to represent student marks and nested loops to calculate student-wise and subject-wise statistics.

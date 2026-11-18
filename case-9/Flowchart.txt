@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Create empty matrix → Input 3×3 marks → Validate all marks → Invalid? show error and STOP → For each student calculate total/average → For each subject find maximum → Display analysis → STOP

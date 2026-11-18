@@ -1,0 +1,8 @@
+Enter marks for 3 students in 3 subjects (0-100).
+Student 1, Subject 1: Student 1, Subject 2: Student 1, Subject 3: Student 2, Subject 1: Student 2, Subject 2: Student 2, Subject 3: Student 3, Subject 1: 
+[stderr]
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\Codex\2026-11-18\d\outputs\Python-Activity-Based-Learning\09_Student_Marks_Matrix_Analysis\main.py", line 9, in <module>
+    mark = float(input("Student " + str(student) +
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line

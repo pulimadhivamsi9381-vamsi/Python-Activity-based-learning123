@@ -1,0 +1,24 @@
+PSEUDOCODE
+
+BEGIN
+ marks = empty nested list
+ FOR student = 1 TO 3
+   row = empty list
+   FOR subject = 1 TO 3
+     INPUT mark
+     IF mark < 0 OR mark > 100 DISPLAY error and STOP
+     APPEND mark to row
+   END FOR
+   APPEND row to marks
+ END FOR
+ FOR each row in marks
+   CALCULATE total and average
+ END FOR
+ FOR subject_index = 0 TO 2
+   highest = marks[0][subject_index]
+   FOR student_index = 1 TO 2
+     IF marks[student_index][subject_index] > highest UPDATE highest
+   END FOR
+   DISPLAY highest
+ END FOR
+END

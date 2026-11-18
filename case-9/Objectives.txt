@@ -1,0 +1,7 @@
+OBJECTIVES
+
+1. Store marks in a two-dimensional list.
+2. Calculate row totals and averages.
+3. Find the highest mark for each subject.
+4. Display a readable marks summary.
+5. Practice nested lists and nested for loops.

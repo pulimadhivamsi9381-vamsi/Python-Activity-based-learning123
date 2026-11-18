@@ -1,0 +1,7 @@
+ASSUMPTIONS
+
+1. The class has 3 students and 3 subjects.
+2. Marks are entered out of 100.
+3. Marks must be between 0 and 100.
+4. Students and subjects are represented by their sequence numbers.
+5. No ranking or grade boundaries are applied.

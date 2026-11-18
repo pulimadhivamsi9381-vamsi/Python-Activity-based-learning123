@@ -1,0 +1,8 @@
+TEST CASES
+
+Use rows [80, 70, 90], [60, 85, 75], [95, 65, 80].
+1. Student 1 total 240, average 80.
+2. Student 2 total 220, average 73.33.
+3. Student 3 total 240, average 80.
+4. Subject highest marks: subject 1 = 95; subject 2 = 85; subject 3 = 90.
+5. Any mark -1 or 101 → invalid input.

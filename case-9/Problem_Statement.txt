@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Write a program to store marks of students across multiple subjects in a nested list. Calculate each student's total and average, and find the highest mark in each subject.

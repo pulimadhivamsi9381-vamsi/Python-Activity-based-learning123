@@ -1,0 +1,7 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example matrix:
+[80, 70, 90]
+[60, 85, 75]
+[95, 65, 80]
+Expected student totals: 240, 220, 240. Expected averages: 80.0, 73.33, 80.0. Subject highs: 95, 85, 90.
