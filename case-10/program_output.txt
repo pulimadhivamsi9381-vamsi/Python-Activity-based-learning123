@@ -1,0 +1,7 @@
+FOOD WASTE MONITORING - 3 DAYS
+Day 1 - food prepared (kg): Day 1 - food wasted (kg): Day 2 - food prepared (kg): Day 2 - food wasted (kg): Day 3 - food prepared (kg): Day 3 - food wasted (kg): 
+FOOD WASTE REPORT
+Total food prepared: 150.0 kg
+Total food wasted  : 10.0 kg
+Waste percentage   : 6.67 %
+Waste level        : MODERATE

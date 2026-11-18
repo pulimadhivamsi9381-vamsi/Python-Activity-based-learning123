@@ -1,0 +1,8 @@
+OBJECTIVES
+
+1. Read daily prepared and wasted food quantities.
+2. Validate the quantities.
+3. Calculate total prepared and wasted food.
+4. Calculate waste percentage.
+5. Classify waste level using clear thresholds.
+6. Practice loops, lists, arithmetic, and conditions.

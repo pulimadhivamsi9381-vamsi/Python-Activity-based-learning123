@@ -1,0 +1,8 @@
+ASSUMPTIONS
+
+1. The user enters records for 3 days.
+2. Quantities are measured in kilograms and may be decimal values.
+3. Prepared quantity must be greater than zero for each day.
+4. Wasted quantity must be between zero and prepared quantity.
+5. Overall waste below 5% is LOW; 5% through 10% is MODERATE; above 10% is HIGH.
+6. These thresholds are academic assumptions for demonstration, not official standards.

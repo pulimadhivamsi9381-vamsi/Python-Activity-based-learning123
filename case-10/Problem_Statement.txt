@@ -1,0 +1,3 @@
+PROBLEM STATEMENT
+
+Develop a basic food-waste monitoring program for a canteen. It should record the quantity of food prepared and wasted for a number of days, calculate the total waste and waste percentage, and classify the waste level.

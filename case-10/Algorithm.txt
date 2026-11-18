@@ -1,0 +1,10 @@
+ALGORITHM
+
+1. Initialize total prepared and total wasted to zero.
+2. Repeat for 3 days: read prepared and wasted quantities.
+3. Validate prepared > 0 and 0 ≤ wasted ≤ prepared.
+4. If invalid, display error and stop.
+5. Add daily values to totals.
+6. Calculate waste percentage = total wasted / total prepared × 100.
+7. If percentage < 5, classify LOW; else if percentage ≤ 10, classify MODERATE; otherwise HIGH.
+8. Display totals, percentage, and classification.

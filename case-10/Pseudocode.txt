@@ -1,0 +1,19 @@
+PSEUDOCODE
+
+BEGIN
+ total_prepared = 0; total_wasted = 0
+ FOR day = 1 TO 3
+   INPUT prepared, wasted
+   IF prepared <= 0 OR wasted < 0 OR wasted > prepared
+     DISPLAY invalid input and STOP
+   END IF
+   total_prepared = total_prepared + prepared
+   total_wasted = total_wasted + wasted
+ END FOR
+ percentage = total_wasted / total_prepared * 100
+ IF percentage < 5 category = LOW
+ ELSE IF percentage <= 10 category = MODERATE
+ ELSE category = HIGH
+ END IF
+ DISPLAY totals, percentage, category
+END

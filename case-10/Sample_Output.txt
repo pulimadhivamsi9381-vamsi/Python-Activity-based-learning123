@@ -1,0 +1,4 @@
+SAMPLE OUTPUT / EXPECTED RESULTS
+
+Example daily data: Day 1 prepared 50 kg, wasted 2 kg; Day 2 prepared 60 kg, wasted 3 kg; Day 3 prepared 40 kg, wasted 5 kg.
+Expected: total prepared 150 kg; total wasted 10 kg; waste percentage 6.67%; waste level MODERATE.

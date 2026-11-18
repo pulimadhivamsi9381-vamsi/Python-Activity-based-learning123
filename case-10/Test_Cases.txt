@@ -1,0 +1,7 @@
+TEST CASES
+
+1. Prepared 100 kg, wasted 4 kg overall → 4%, LOW.
+2. Prepared 100 kg, wasted 7 kg overall → 7%, MODERATE.
+3. Prepared 100 kg, wasted 15 kg overall → 15%, HIGH.
+4. Across three days: prepared 50, 60, 40 kg; wasted 2, 3, 5 kg → totals 150 kg prepared, 10 kg wasted, 6.67%, MODERATE.
+5. Wasted greater than prepared or prepared equal to zero → invalid input.

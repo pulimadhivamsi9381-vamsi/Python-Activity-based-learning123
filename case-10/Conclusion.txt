@@ -1,0 +1,3 @@
+CONCLUSION
+
+The system summarizes food prepared and wasted over three days and classifies the overall waste percentage. It demonstrates loops, validation, arithmetic, and conditional classification.

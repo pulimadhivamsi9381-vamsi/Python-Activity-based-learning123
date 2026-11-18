@@ -1,0 +1,3 @@
+FLOWCHART (TEXT REPRESENTATION)
+
+START → Initialize totals → For each of 3 days input prepared and wasted → Validate → Invalid? error and STOP → Add to totals → More days? repeat → Calculate waste percentage → Classify LOW/MODERATE/HIGH → Display report → STOP
